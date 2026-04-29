@@ -1,0 +1,12 @@
+POWER BI FILES (.pbix) — SAVE INSTRUCTIONS
+============================================
+
+After completing your Power BI work, save your files here:
+
+Part 1:
+  File → Save As → LW4_Part1_Tourism_Forecast.pbix
+
+Part 2:
+  File → Save As → LW4_Part2_Modified_Forecast.pbix
+
+Then add both .pbix files to this folder before submitting.
