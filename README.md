@@ -1,12 +1,12 @@
 # 📊 IS 107 — Laboratory Work 4
 ## Forecasting Time-Series Data in Power BI
+https://drive.google.com/drive/folders/1DSMOl5pDzvJXw8I811Vzo2N9riNPf6Cr?usp=drive_link
 
 > **Course:** IS 107 - Management Information Systems  
 > **Activity:** Laboratory Work 4 — Forecasting Time-Series Data in Power BI  
-> **Student:** [Your Full Name]  
-> **Student No.:** [Your Student Number]  
-> **Section:** [Your Section]  
-> **Instructor:** [Instructor Name]  
+> **Student:** Kian Nathaniel D. Saga 
+> **Student No.:** 2022-0972 
+> **Instructor:** Joseph Vistal 
 > **Date Submitted:** April 29, 2026  
 
 ---
